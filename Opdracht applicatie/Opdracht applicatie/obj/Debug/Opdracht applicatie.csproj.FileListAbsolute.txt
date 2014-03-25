@@ -1,0 +1,11 @@
+c:\users\dylan bartels\documents\visual studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\bin\Debug\Opdracht applicatie.exe.config
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\bin\Debug\Opdracht applicatie.exe
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\bin\Debug\Opdracht applicatie.pdb
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht applicatie.csprojResolveAssemblyReference.cache
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht_applicatie.Form1.resources
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht_applicatie.Properties.Resources.resources
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht applicatie.csproj.GenerateResource.Cache
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht applicatie.exe
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht applicatie.pdb
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht_applicatie.Form2.resources
+C:\Users\Dylan Bartels\Documents\Visual Studio 2013\Projects\Opdracht applicatie\Opdracht applicatie\obj\Debug\Opdracht_applicatie.Form3.resources
